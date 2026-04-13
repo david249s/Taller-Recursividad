@@ -5,8 +5,14 @@ Este taller tiene como objetivo aplicar el concepto de recursividad  en programa
 
 Para ejecutarlo:
 Tener instalado Java
+
 Guardar el archivo
+
 Abrir la terminal o consola
+
 Compilar el programa
+
 Ejecutar el programa
+
 Ingresar los datos por consola
+
